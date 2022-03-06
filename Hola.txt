@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Hola mundo que hay
+=======
+Hola mundo que hay
+>>>>>>> Stashed changes
